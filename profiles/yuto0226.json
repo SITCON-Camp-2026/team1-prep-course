@@ -2,12 +2,11 @@
   "$schema": "../schemas/profile.schema.json",
   "github": "yuto0226",
   "displayName": "Yuto",
-  "tagline": "想把點子做成可以互動的網頁",
-  "interests": ["AI", "前端", "開放資料"],
+  "tagline": "reversing bad bad meoware",
+  "interests": ["軟體工程", "系統攻防", "EDR"],
   "faction": {
     "os": "linux",
-    "browser": "other",
+    "browser": "arc",
     "editor": "vim"
   }
 }
-
