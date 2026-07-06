@@ -5,7 +5,7 @@
 檔名請使用：
 
 ```text
-profiles/<GitHub 帳號>.json
+profiles/tylinnNyaaaaa.json
 ```
 
 例如：
