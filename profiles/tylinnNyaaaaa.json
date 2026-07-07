@@ -1,12 +1,12 @@
 {
   "$schema": "../schemas/profile.schema.json",
-  "github": "octocat",
-  "displayName": "steak",
-  "tagline": "想把點子做成可以互動的網頁",
-  "interests": ["AI", "前端", "開放資料"],
+  "github": "tylinnNyaaaaa",
+  "displayName": "牛排",
+  "tagline": "HI",
+  "interests": ["HPC", "Computer Vision", "Deep Learning"],
   "faction": {
-    "os": "linux",
-    "browser": "firefox",
+    "os": "windows",
+    "browser": "Chrome",
     "editor": "vscode"
   }
 }
