@@ -3,10 +3,10 @@
   "github": "tylinnNyaaaaa",
   "displayName": "牛排",
   "tagline": "HI",
-  "interests": ["HPC", "Computer Vision", "Deep Learning"],
+  "interests": ["HPC", "CV", "DL"],
   "faction": {
     "os": "windows",
-    "browser": "Chrome",
+    "browser": "chrome",
     "editor": "vscode"
   }
 }
