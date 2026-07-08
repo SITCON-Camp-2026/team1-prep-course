@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "DylanLin712",
+  "displayName": "林齊濬",
+  "tagline": "喔",
+  "interests": ["AI", "軟體", "遊戲"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
