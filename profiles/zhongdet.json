@@ -1,0 +1,16 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "zhongdet",
+  "displayName": "zhong",
+  "tagline": "亻尔女子",
+  "interests": [
+    "App",
+    "開發",
+    "local LLM"
+  ],
+  "faction": {
+    "os": "linux",
+    "browser": "firefox",
+    "editor": "vim"
+  }
+}
