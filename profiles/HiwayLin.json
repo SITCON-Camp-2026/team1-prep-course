@@ -1,0 +1,16 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "HiwayLin",
+  "displayName": "林海蔚",
+  "tagline": "介紹",
+  "interests": [
+    "軟體",
+    "AI",
+    "資安"
+  ],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
