@@ -1,0 +1,16 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "liqui4323-cyl",
+  "displayName": "李千誼",
+  "tagline": "嗨",
+  "interests": [
+    "AI",
+    "軟體工程",
+    "IC設計"
+  ],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
