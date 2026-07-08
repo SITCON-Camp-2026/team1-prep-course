@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "Chuen666666",
+  "displayName": "蔡淳宇",
+  "tagline": "早安",
+  "interests": ["AI", "開發", "競程"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
