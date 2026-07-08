@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "HuangStar0121",
+  "displayName": "HuangStar0121",
+  "tagline": "運動人",
+  "interests": ["專案", "AI"],
+  "faction": {
+    "os": "windows",
+    "browser": "chrome",
+    "editor": "vscode"
+  }
+}
